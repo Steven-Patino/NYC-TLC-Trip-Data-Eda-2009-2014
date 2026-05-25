@@ -1,0 +1,3 @@
+total_registros_universo|total_filas_duplicadas_exactas|porcentaje_redundancia_real|
+------------------------+------------------------------+---------------------------+
+               169001162|                       1959393|1.159396%                  |

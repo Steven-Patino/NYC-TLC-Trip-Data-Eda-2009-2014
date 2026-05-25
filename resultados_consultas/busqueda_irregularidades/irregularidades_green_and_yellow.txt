@@ -1,0 +1,4 @@
+flota                  |total_registros_analizados|viajes_pickup_fuera_rango|viajes_dropoff_fuera_rango|paradoja_temporal_dropoff_antes_pickup|pasajeros_negativos|distancia_negativa|tarifa_base_negativa|propina_negativa|total_negativo|
+-----------------------+--------------------------+-------------------------+--------------------------+--------------------------------------+-------------------+------------------+--------------------+----------------+--------------+
+Yellow Taxi (2009-2014)|                1025407402|                        0|                      2292|                                284917|                  0|                 3|               39666|             628|         39661|
+Green Taxi (2014)      |                  15837009|                        0|                       661|                                   202|                  0|                 0|               11626|             169|         11626|

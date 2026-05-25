@@ -1,0 +1,24 @@
+columna              |tipo_dato_nativo|total_meses_detectada|periodo_activa|estado_columna           |
+---------------------+----------------+---------------------+--------------+-------------------------+
+DOLocationID         |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+PULocationID         |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+RatecodeID           |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+VendorID             |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+congestion_surcharge |INT32           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+ehail_fee            |INT32           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+extra                |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+fare_amount          |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+lpep_dropoff_datetime|INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+lpep_pickup_datetime |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+mta_tax              |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+passenger_count      |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+payment_type         |INT64           |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+store_and_fwd_flag   |BYTE_ARRAY      |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+tip_amount           |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+tolls_amount         |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+total_amount         |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+trip_distance        |DOUBLE          |                   24|2014 a 2015   |🟢 ESTABLE (Sin cambios) |
+trip_type            |DOUBLE          |                   23|2014 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+improvement_surcharge|DOUBLE          |                   16|2014 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+improvement_surcharge|INT32           |                    8|2014 a 2014   |⚠️ MUTADA / INCONSISTENTE|
+trip_type            |INT64           |                    1|2015 a 2015   |⚠️ MUTADA / INCONSISTENTE|

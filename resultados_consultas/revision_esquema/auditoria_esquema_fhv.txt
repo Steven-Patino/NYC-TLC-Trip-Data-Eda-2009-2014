@@ -1,0 +1,9 @@
+columna               |tipo_dato_nativo|total_meses_detectada|periodo_activa|estado_columna          |
+----------------------+----------------+---------------------+--------------+------------------------+
+Affiliated_base_number|BYTE_ARRAY      |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+DOlocationID          |DOUBLE          |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+PUlocationID          |DOUBLE          |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+SR_Flag               |INT32           |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+dispatching_base_num  |BYTE_ARRAY      |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+dropOff_datetime      |INT64           |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|
+pickup_datetime       |INT64           |                   12|2015 a 2015   |🟢 ESTABLE (Sin cambios)|

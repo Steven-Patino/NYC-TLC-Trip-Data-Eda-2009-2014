@@ -1,0 +1,52 @@
+columna              |tipo_dato_nativo|total_meses_detectada|periodo_activa|estado_columna           |
+---------------------+----------------+---------------------+--------------+-------------------------+
+mta_tax              |DOUBLE          |                   84|2009 a 2015   |🟢 ESTABLE (Sin cambios) |
+fare_amount          |DOUBLE          |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+passenger_count      |INT64           |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+store_and_fwd_flag   |BYTE_ARRAY      |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+tip_amount           |DOUBLE          |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+tolls_amount         |DOUBLE          |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+total_amount         |DOUBLE          |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+trip_distance        |DOUBLE          |                   72|2010 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+DOLocationID         |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+PULocationID         |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+RatecodeID           |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+VendorID             |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+extra                |DOUBLE          |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+payment_type         |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+tpep_dropoff_datetime|INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+tpep_pickup_datetime |INT64           |                   60|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+airport_fee          |INT32           |                   59|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+improvement_surcharge|DOUBLE          |                   59|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+congestion_surcharge |INT32           |                   55|2011 a 2015   |⚠️ MUTADA / INCONSISTENTE|
+surcharge            |DOUBLE          |                   24|2009 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+End_Lat              |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+End_Lon              |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Fare_Amt             |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Passenger_Count      |INT64           |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Payment_Type         |BYTE_ARRAY      |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Rate_Code            |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Start_Lat            |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Start_Lon            |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Tip_Amt              |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Tolls_Amt            |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Total_Amt            |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Trip_Distance        |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Trip_Dropoff_DateTime|BYTE_ARRAY      |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+Trip_Pickup_DateTime |BYTE_ARRAY      |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+dropoff_datetime     |BYTE_ARRAY      |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+dropoff_latitude     |DOUBLE          |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+dropoff_longitude    |DOUBLE          |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+payment_type         |BYTE_ARRAY      |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+pickup_datetime      |BYTE_ARRAY      |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+pickup_latitude      |DOUBLE          |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+pickup_longitude     |DOUBLE          |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+store_and_forward    |DOUBLE          |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+vendor_id            |BYTE_ARRAY      |                   12|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+vendor_name          |BYTE_ARRAY      |                   12|2009 a 2009   |⚠️ MUTADA / INCONSISTENTE|
+rate_code            |BYTE_ARRAY      |                   10|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+congestion_surcharge |DOUBLE          |                    5|2011 a 2014   |⚠️ MUTADA / INCONSISTENTE|
+__index_level_0__    |INT64           |                    2|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+rate_code            |INT64           |                    2|2010 a 2010   |⚠️ MUTADA / INCONSISTENTE|
+airport_fee          |DOUBLE          |                    1|2011 a 2011   |⚠️ MUTADA / INCONSISTENTE|
+improvement_surcharge|INT32           |                    1|2014 a 2014   |⚠️ MUTADA / INCONSISTENTE|
